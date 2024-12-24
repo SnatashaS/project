@@ -1,0 +1,11 @@
+iframe
+
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A2fea2151fd5f58e68b4d366c0e60ecba1edad4862835d0ee1c85b009429ba44c&amp;source=constructor" width="675" height="342" frameborder="0"></iframe>
+
+
+
+
+
+javascript
+
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A2fea2151fd5f58e68b4d366c0e60ecba1edad4862835d0ee1c85b009429ba44c&amp;width=675&amp;height=342&amp;lang=ru_RU&amp;scroll=true"></script>
